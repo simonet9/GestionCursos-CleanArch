@@ -22,7 +22,6 @@ La solución sigue la Regla de Dependencia, donde las capas internas no conocen 
 - **Base de Datos:** SQLite (Entorno de desarrollo) / SQL Server Ready
 - **ORM:** Entity Framework Core
 - **Testing:** xUnit + FluentAssertions + NSubstitute
-- **Paradigma:** Vibe-Coding (Ingeniería Asistida por IA bajo supervisión de Arquitectura)
 
 ## 💡 Decisiones de Diseño Clave
 
